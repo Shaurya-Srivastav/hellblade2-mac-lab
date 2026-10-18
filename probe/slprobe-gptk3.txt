@@ -1,0 +1,100 @@
+display: SM_CXSCREEN=5120 SM_CYSCREEN=1440 virtual=5120x1440 systemDPI=96
+display: monitor '\\.\DISPLAY1' rect=(0,0)-(5120,1440) work=(0,30)-(5120,1440) effectiveDPI=96 mode=5120x1440@144
+os: RtlGetVersion 10.0.19043
+sl: LoadLibrary('Z:\Users\shaurya\Documents\Games\Senuas.Saga.Hellblade.II.v1.0.0.0.162837\Senuas.Saga.Hellblade.II.v1.0.0.0.162837\Engine\Plugins\Runtime\Nvidia\Streamline\Binaries\ThirdParty\Win64\sl.interposer.dll')=0000000001850000 error=0
+  [sl 0] [20-03-24][streamline][info][tid:240][0s:007ms:823us]pluginmanager.cpp:100[setHostSDKVersion] Streamline v2.4.1.f13cbfa2 - built on Thu Apr 18 20:22:38 2024 - host SDK v2.4.0
+  [sl 2] [20-03-24][streamline][error][tid:240][0s:008ms:860us]file.h:94[open] File 'C:\ProgramData/NVIDIA/NGX/models/nvngx_config.txt' does not exist
+  [sl 2] [20-03-24][streamline][error][tid:240][0s:008ms:892us]ota.cpp:255[readServerManifest] Failed to open manifest file at: C:\ProgramData/NVIDIA/NGX/models/nvngx_config.txt
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:637ms:901us]ota.cpp:314[getNVDAArchitecture] Found NVIDIA GPUs, [000000000021ED60]: 1
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:637ms:963us]ota.cpp:320[getNVDAArchitecture] Found GPU 0, arch=0x190
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:638ms:100us]ota.cpp:357[checkForOTA] Running C:\windows\system32\nvngx_update.exe -cmsid 0 -feature sl_dlss_0 -api bootstrap
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:638ms:972us]ota.cpp:393[checkForOTA] Running C:\windows\system32\nvngx_update.exe -cmsid 0 -feature sl_dlss_0 -api update -type dll -gpuarch 0x190
+  [sl 2] [20-03-26][streamline][error][tid:240][1s:639ms:125us]ota.cpp:136[execThreadProc] Failed to create process C:\windows\system32\nvngx_update.exe -cmsid 0 -feature sl_dlss_0 -api bootstrap
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:639ms:151us]ota.cpp:147[execThreadProc] execThreadProc: C:\windows\system32\nvngx_update.exe -cmsid 0 -feature sl_dlss_0 -api bootstrap
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:639ms:282us]ota.cpp:314[getNVDAArchitecture] Found NVIDIA GPUs, [000000000021ED60]: 1
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:639ms:305us]ota.cpp:320[getNVDAArchitecture] Found GPU 0, arch=0x190
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:639ms:347us]ota.cpp:357[checkForOTA] Running C:\windows\system32\nvngx_update.exe -cmsid 0 -feature sl_dlss_g_0 -api bootstrap
+  [sl 2] [20-03-26][streamline][error][tid:240][1s:639ms:508us]ota.cpp:136[execThreadProc] Failed to create process C:\windows\system32\nvngx_update.exe -cmsid 0 -feature sl_dlss_0 -api update -type dll -gpuarch 0x190
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:639ms:538us]ota.cpp:147[execThreadProc] execThreadProc: C:\windows\system32\nvngx_update.exe -cmsid 0 -feature sl_dlss_0 -api update -type dll -gpuarch 0x190
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:639ms:794us]ota.cpp:393[checkForOTA] Running C:\windows\system32\nvngx_update.exe -cmsid 0 -feature sl_dlss_g_0 -api update -type dll -gpuarch 0x190
+  [sl 2] [20-03-26][streamline][error][tid:240][1s:639ms:982us]ota.cpp:136[execThreadProc] Failed to create process C:\windows\system32\nvngx_update.exe -cmsid 0 -feature sl_dlss_g_0 -api bootstrap
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:640ms:025us]ota.cpp:147[execThreadProc] execThreadProc: C:\windows\system32\nvngx_update.exe -cmsid 0 -feature sl_dlss_g_0 -api bootstrap
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:640ms:212us]ota.cpp:314[getNVDAArchitecture] Found NVIDIA GPUs, [000000000021ED60]: 1
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:640ms:237us]ota.cpp:320[getNVDAArchitecture] Found GPU 0, arch=0x190
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:640ms:285us]ota.cpp:357[checkForOTA] Running C:\windows\system32\nvngx_update.exe -cmsid 0 -feature sl_reflex_0 -api bootstrap
+  [sl 2] [20-03-26][streamline][error][tid:240][1s:640ms:466us]ota.cpp:136[execThreadProc] Failed to create process C:\windows\system32\nvngx_update.exe -cmsid 0 -feature sl_dlss_g_0 -api update -type dll -gpuarch 0x190
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:640ms:510us]ota.cpp:147[execThreadProc] execThreadProc: C:\windows\system32\nvngx_update.exe -cmsid 0 -feature sl_dlss_g_0 -api update -type dll -gpuarch 0x190
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:640ms:574us]ota.cpp:393[checkForOTA] Running C:\windows\system32\nvngx_update.exe -cmsid 0 -feature sl_reflex_0 -api update -type dll -gpuarch 0x190
+  [sl 2] [20-03-26][streamline][error][tid:240][1s:640ms:713us]ota.cpp:136[execThreadProc] Failed to create process C:\windows\system32\nvngx_update.exe -cmsid 0 -feature sl_reflex_0 -api bootstrap
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:640ms:744us]ota.cpp:147[execThreadProc] execThreadProc: C:\windows\system32\nvngx_update.exe -cmsid 0 -feature sl_reflex_0 -api bootstrap
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:640ms:845us]ota.cpp:314[getNVDAArchitecture] Found NVIDIA GPUs, [000000000021ED60]: 1
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:640ms:868us]ota.cpp:320[getNVDAArchitecture] Found GPU 0, arch=0x190
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:640ms:910us]ota.cpp:357[checkForOTA] Running C:\windows\system32\nvngx_update.exe -cmsid 0 -feature sl_pcl_0 -api bootstrap
+  [sl 2] [20-03-26][streamline][error][tid:240][1s:641ms:065us]ota.cpp:136[execThreadProc] Failed to create process C:\windows\system32\nvngx_update.exe -cmsid 0 -feature sl_reflex_0 -api update -type dll -gpuarch 0x190
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:641ms:085us]ota.cpp:147[execThreadProc] execThreadProc: C:\windows\system32\nvngx_update.exe -cmsid 0 -feature sl_reflex_0 -api update -type dll -gpuarch 0x190
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:641ms:183us]ota.cpp:393[checkForOTA] Running C:\windows\system32\nvngx_update.exe -cmsid 0 -feature sl_pcl_0 -api update -type dll -gpuarch 0x190
+  [sl 2] [20-03-26][streamline][error][tid:240][1s:641ms:312us]ota.cpp:136[execThreadProc] Failed to create process C:\windows\system32\nvngx_update.exe -cmsid 0 -feature sl_pcl_0 -api bootstrap
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:641ms:343us]ota.cpp:147[execThreadProc] execThreadProc: C:\windows\system32\nvngx_update.exe -cmsid 0 -feature sl_pcl_0 -api bootstrap
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:641ms:448us]ota.cpp:314[getNVDAArchitecture] Found NVIDIA GPUs, [000000000021ED60]: 1
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:641ms:468us]ota.cpp:320[getNVDAArchitecture] Found GPU 0, arch=0x190
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:641ms:498us]ota.cpp:357[checkForOTA] Running C:\windows\system32\nvngx_update.exe -cmsid 0 -feature sl_common_0 -api bootstrap
+  [sl 2] [20-03-26][streamline][error][tid:240][1s:641ms:665us]ota.cpp:136[execThreadProc] Failed to create process C:\windows\system32\nvngx_update.exe -cmsid 0 -feature sl_pcl_0 -api update -type dll -gpuarch 0x190
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:641ms:685us]ota.cpp:147[execThreadProc] execThreadProc: C:\windows\system32\nvngx_update.exe -cmsid 0 -feature sl_pcl_0 -api update -type dll -gpuarch 0x190
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:641ms:754us]ota.cpp:393[checkForOTA] Running C:\windows\system32\nvngx_update.exe -cmsid 0 -feature sl_common_0 -api update -type dll -gpuarch 0x190
+  [sl 2] [20-03-26][streamline][error][tid:240][1s:641ms:889us]ota.cpp:136[execThreadProc] Failed to create process C:\windows\system32\nvngx_update.exe -cmsid 0 -feature sl_common_0 -api bootstrap
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:641ms:908us]ota.cpp:147[execThreadProc] execThreadProc: C:\windows\system32\nvngx_update.exe -cmsid 0 -feature sl_common_0 -api bootstrap
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:642ms:018us]ota.cpp:314[getNVDAArchitecture] Found NVIDIA GPUs, [000000000021ED60]: 1
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:642ms:040us]ota.cpp:320[getNVDAArchitecture] Found GPU 0, arch=0x190
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:642ms:071us]ota.cpp:357[checkForOTA] Running C:\windows\system32\nvngx_update.exe -cmsid 0 -feature sl_pcl_0 -api bootstrap
+  [sl 2] [20-03-26][streamline][error][tid:240][1s:642ms:230us]ota.cpp:136[execThreadProc] Failed to create process C:\windows\system32\nvngx_update.exe -cmsid 0 -feature sl_common_0 -api update -type dll -gpuarch 0x190
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:642ms:250us]ota.cpp:147[execThreadProc] execThreadProc: C:\windows\system32\nvngx_update.exe -cmsid 0 -feature sl_common_0 -api update -type dll -gpuarch 0x190
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:642ms:355us]ota.cpp:393[checkForOTA] Running C:\windows\system32\nvngx_update.exe -cmsid 0 -feature sl_pcl_0 -api update -type dll -gpuarch 0x190
+  [sl 2] [20-03-26][streamline][error][tid:240][1s:642ms:489us]ota.cpp:136[execThreadProc] Failed to create process C:\windows\system32\nvngx_update.exe -cmsid 0 -feature sl_pcl_0 -api bootstrap
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:642ms:514us]ota.cpp:147[execThreadProc] execThreadProc: C:\windows\system32\nvngx_update.exe -cmsid 0 -feature sl_pcl_0 -api bootstrap
+  [sl 2] [20-03-26][streamline][error][tid:240][1s:642ms:804us]ota.cpp:136[execThreadProc] Failed to create process C:\windows\system32\nvngx_update.exe -cmsid 0 -feature sl_pcl_0 -api update -type dll -gpuarch 0x190
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:642ms:829us]ota.cpp:147[execThreadProc] execThreadProc: C:\windows\system32\nvngx_update.exe -cmsid 0 -feature sl_pcl_0 -api update -type dll -gpuarch 0x190
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:642ms:848us]pluginmanager.cpp:479[findPlugins] Looking for plugins in Z:\Users\shaurya\Documents\Games\Senuas.Saga.Hellblade.II.v1.0.0.0.162837\Senuas.Saga.Hellblade.II.v1.0.0.0.162837\Engine\Plugins\Runtime\Nvidia\Streamline\Binaries\ThirdParty\Win64 ...
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:643ms:794us]pluginmanager.cpp:886[loadPlugins] eLoadDownloadedPlugins flag not passed to preferences, OTA'd plugins will not be loaded!
+File 'Z:\Users\shaurya\Documents\Games\Senuas.Saga.Hellblade.II.v1.0.0.0.162837\Senuas.Saga.Hellblade.II.v1.0.0.0.162837\Engine\Plugins\Runtime\Nvidia\Streamline\Binaries\ThirdParty\Win64/sl.common.dll' is signed by NVIDIA and the signature was verified.
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:801ms:509us]commoninterface.cpp:145[getSystemCaps] Enumerating up to 8 adapters but only one of them can be used to create a device - no mGPU support in this SDK
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:801ms:819us]commoninterface.cpp:263[getSystemCaps] >-----------------------------------------
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:801ms:842us]commoninterface.cpp:266[getSystemCaps] NVIDIA driver 561.9
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:801ms:860us]commoninterface.cpp:291[getSystemCaps] Adapter 0 architecture 0x190 implementation 0x4 revision 0xa1 - bit 0x1 - LUID 1.1831
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:801ms:877us]commoninterface.cpp:297[getSystemCaps] -----------------------------------------<
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:802ms:343us]commonentry.cpp:1536[getOSVersionAndUpdateTimerResolution] Changed high resolution timer resolution to 5000 [100 ns units]
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:802ms:843us]commonentry.cpp:1610[updateEmbeddedJSON] Detected Windows OS version 10.0.19043
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:805ms:311us]pluginmanager.cpp:781[mapPlugins] Loaded plugin 'sl.common' - version 2.4.1.f13cbfa2 - id 4294967295 - priority 0 - adapter mask 0x1 - interposer 'no'
+File 'Z:\Users\shaurya\Documents\Games\Senuas.Saga.Hellblade.II.v1.0.0.0.162837\Senuas.Saga.Hellblade.II.v1.0.0.0.162837\Engine\Plugins\Runtime\Nvidia\Streamline\Binaries\ThirdParty\Win64/sl.deepdvc.dll' is signed by NVIDIA and the signature was verified.
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:811ms:799us]commonentry.cpp:1033[updateCommonEmbeddedJSONConfig] Registering required tag 'kBufferTypeScalingOutputColor' life-cycle 'ResourceLifecycle::eValidUntilEvaluate' for feature `kFeatureDeepDVC`
+  [sl 1] [20-03-26][streamline][warn][tid:240][1s:812ms:323us]pluginmanager.cpp:678[mapPlugins] Ignoring plugin 'sl.deepdvc' since it is was not requested by the host
+File 'Z:\Users\shaurya\Documents\Games\Senuas.Saga.Hellblade.II.v1.0.0.0.162837\Senuas.Saga.Hellblade.II.v1.0.0.0.162837\Engine\Plugins\Runtime\Nvidia\Streamline\Binaries\ThirdParty\Win64/sl.dlss_g.dll' is signed by NVIDIA and the signature was verified.
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:988ms:378us]commonentry.cpp:707[getNGXFeatureRequirements] NGX feature 11 requirements - minOS 10.0.19041 minHW 0x160
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:988ms:456us]commonentry.cpp:1033[updateCommonEmbeddedJSONConfig] Registering required tag 'kBufferTypeDepth' life-cycle 'ResourceLifecycle::eValidUntilPresent' for feature `kFeatureDLSS_G`
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:988ms:497us]commonentry.cpp:1033[updateCommonEmbeddedJSONConfig] Registering required tag 'kBufferTypeMotionVectors' life-cycle 'ResourceLifecycle::eValidUntilPresent' for feature `kFeatureDLSS_G`
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:988ms:526us]commonentry.cpp:1033[updateCommonEmbeddedJSONConfig] Registering required tag 'kBufferTypeHUDLessColor' life-cycle 'ResourceLifecycle::eValidUntilPresent' for feature `kFeatureDLSS_G`
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:988ms:553us]commonentry.cpp:1033[updateCommonEmbeddedJSONConfig] Registering required tag 'kBufferTypeUIColorAndAlpha' life-cycle 'ResourceLifecycle::eValidUntilPresent' for feature `kFeatureDLSS_G`
+  [sl 0] [20-03-26][streamline][info][tid:240][1s:992ms:658us]pluginmanager.cpp:781[mapPlugins] Loaded plugin 'sl.dlss_g' - version 2.4.1.f13cbfa2 - id 1000 - priority 1000 - adapter mask 0x1 - interposer 'no'
+File 'Z:\Users\shaurya\Documents\Games\Senuas.Saga.Hellblade.II.v1.0.0.0.162837\Senuas.Saga.Hellblade.II.v1.0.0.0.162837\Engine\Plugins\Runtime\Nvidia\Streamline\Binaries\ThirdParty\Win64/sl.pcl.dll' is signed by NVIDIA and the signature was verified.
+  [sl 0] [20-03-26][streamline][info][tid:240][2s:001ms:632us]pluginmanager.cpp:781[mapPlugins] Loaded plugin 'sl.pcl' - version 2.4.1.f13cbfa2 - id 4 - priority 2 - adapter mask 0x1 - interposer 'no'
+File 'Z:\Users\shaurya\Documents\Games\Senuas.Saga.Hellblade.II.v1.0.0.0.162837\Senuas.Saga.Hellblade.II.v1.0.0.0.162837\Engine\Plugins\Runtime\Nvidia\Streamline\Binaries\ThirdParty\Win64/sl.reflex.dll' is signed by NVIDIA and the signature was verified.
+  [sl 0] [20-03-26][streamline][info][tid:240][2s:010ms:534us]pluginmanager.cpp:781[mapPlugins] Loaded plugin 'sl.reflex' - version 2.4.1.f13cbfa2 - id 3 - priority 100 - adapter mask 0x1 - interposer 'no'
+  [sl 0] [20-03-26][streamline][info][tid:240][2s:010ms:986us]pluginmanager.cpp:1018[loadPlugins] Plugin execution order based on priority:
+  [sl 0] [20-03-26][streamline][info][tid:240][2s:011ms:016us]pluginmanager.cpp:1021[loadPlugins] P0 - sl.common
+  [sl 0] [20-03-26][streamline][info][tid:240][2s:011ms:094us]pluginmanager.cpp:1021[loadPlugins] P2 - sl.pcl
+sl: slInit=eOk
+  [sl 0] [20-03-26][streamline][info][tid:240][2s:011ms:117us]pluginmanager.cpp:1021[loadPlugins] P100 - sl.reflex
+  [sl 0] [20-03-26][streamline][info][tid:240][2s:011ms:139us]pluginmanager.cpp:1021[loadPlugins] P1000 - sl.dlss_g
+dxgi: adapter 0 'AMD Compatibility Mode' vendor=0x10de device=0x66af luid=00000001:00000727 vram=28753MB
+dxgi:   output 0 '\\.\DISPLAY1' desktop=(0,0)-(5120,1440)
+sl: DLSS   supported=eErrorFeatureMissing requirements=eErrorFeatureMissing flags=0x0 os=0.0.0/0.0.0 driver=0.0/0.0
+  [sl 2] [20-03-26][streamline][error][tid:240][2s:011ms:910us]sl.cpp:811[operator ()] Feature 'kFeatureDLSS' was not loaded
+  [sl 2] [20-03-26][streamline][error][tid:240][2s:012ms:098us]sl.cpp:668[operator ()] Feature 'kFeatureDLSS_G' requires GPU hardware scheduling to be enabled in the OS
+sl: DLSS_G supported=eErrorOSDisabledHWS requirements=eOk flags=0x1e os=10.0.19043/10.0.19041 driver=561.9/512.15
+sl: Reflex supported=eOk requirements=eOk flags=0x7 os=10.0.19043/10.0.0 driver=561.9/512.15
+sl: PCL    supported=eOk requirements=eOk flags=0x7 os=10.0.19043/10.0.0 driver=561.9/512.15
+hws: D3DKMTEnumAdapters2=0000000000000000 D3DKMTQueryAdapterInfo=0000000000000000
+nvapi: nvapi64.dll=0000000001be0000
+nvapi: Initialize=0
+nvapi: SYS_GetDriverAndBranchVersion=0 version=0.00 branch=r560_88-11
+nvapi: EnumPhysicalGPUs=0 count=0
+nvapi:   gpu 0 name=0 'RTX 4090' GetArchInfo=0 architecture=0x190 implementation=0x4 revision=0xa1

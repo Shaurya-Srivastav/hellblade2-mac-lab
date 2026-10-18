@@ -1,0 +1,4 @@
+LIBRARY d3dkmt_hws.dll
+EXPORTS
+    D3DKMTEnumAdapters2
+    D3DKMTQueryAdapterInfo

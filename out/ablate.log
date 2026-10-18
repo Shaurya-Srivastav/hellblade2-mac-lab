@@ -1,0 +1,31 @@
+resolved r.ScreenPercentage = 66.7 at ['0x4fdc858', '0x4fdc85c']
+resolved r.Lumen.DiffuseIndirect.Allow = 1 at ['0x4e511d8', '0x4e511dc']
+resolved r.Lumen.Reflections.Allow = 1 at ['0x4e523a8', '0x4e523ac']
+resolved r.Lumen.ScreenProbeGather.DownsampleFactor = 16 at ['0x14a4813c8']
+resolved r.Shadow.Virtual.ResolutionLodBiasDirectional = -1.5 at ['0x4dd7fd8', '0x4dd7fdc']
+resolved r.VolumetricFog = 1 at ['0x14a485628']
+resolved r.Nanite.MaxPixelsPerEdge = 1.0 at ['0x4e555a8', '0x4e555ac']
+resolved r.DepthOfFieldQuality = 2 at ['0x3e51db8', '0x3e51dbc']
+resolved r.MotionBlurQuality = 4 at ['0x3e51c28', '0x3e51c2c']
+resolved r.Lumen.TranslucencyVolume.Enable = 1 at ['0x14a481858']
+waiting for the game to render
+  baseline             real_fps= 13.2 shown_fps= 26.2 gpu_ms/real= 77.1 busy=1.02 input=[(3416, 961)]
+sp58-balanced          real_fps= 15.6 shown_fps= 31.2 gpu_ms/real= 64.7 busy=1.01 input=[(2970, 836)]
+waiting for the game to render
+sp50-performance: rendering stopped during the measurement, repeating
+  baseline             real_fps= 12.6 shown_fps= 25.2 gpu_ms/real= 80.3 busy=1.01 input=[(3416, 961)]
+sp50-performance       real_fps= 15.0 shown_fps= 29.8 gpu_ms/real= 67.9 busy=1.02 input=[(2560, 720)]
+sp33-ultraperf: rendering stopped during the measurement, repeating
+  baseline             real_fps= 13.0 shown_fps= 26.0 gpu_ms/real= 78.2 busy=1.01 input=[(3416, 961)]
+sp33-ultraperf         real_fps= 18.4 shown_fps= 37.4 gpu_ms/real= 56.8 busy=1.04 input=[(1705, 480)]
+  baseline             real_fps= 13.0 shown_fps= 26.0 gpu_ms/real= 78.1 busy=1.01 input=[(3416, 961)]
+lumen-gi-off           real_fps= 16.9 shown_fps= 34.3 gpu_ms/real= 59.1 busy=1.00 input=[(3416, 961)]
+  baseline             real_fps= 13.2 shown_fps= 26.6 gpu_ms/real= 76.5 busy=1.01 input=[(3416, 961)]
+lumen-refl-off         real_fps= 13.4 shown_fps= 26.8 gpu_ms/real= 75.4 busy=1.01 input=[(3416, 961)]
+  baseline             real_fps= 13.2 shown_fps= 26.3 gpu_ms/real= 76.5 busy=1.01 input=[(3416, 961)]
+probe-downsample-32    real_fps=  4.5 shown_fps=  4.5 gpu_ms/real= 66.0 busy=0.30 input=[(3416, 961)]
+  baseline             real_fps= 13.1 shown_fps= 26.1 gpu_ms/real= 77.8 busy=1.02 input=[(3416, 961)]
+vsm-bias-0.5           real_fps= 13.4 shown_fps= 26.7 gpu_ms/real= 75.8 busy=1.01 input=[(3416, 961)]
+  baseline             real_fps= 13.6 shown_fps= 27.2 gpu_ms/real= 74.2 busy=1.01 input=[(3416, 961)]
+volumetric-fog-off     real_fps= 14.4 shown_fps= 28.8 gpu_ms/real= 70.6 busy=1.02 input=[(3416, 961)]
+waiting for the game to render

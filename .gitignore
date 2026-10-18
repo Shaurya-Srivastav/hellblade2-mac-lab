@@ -1,0 +1,30 @@
+# Personal notes, kept on this Mac only
+RESEARCH.md
+
+# Third-party SDK, local Python environment, personal game data
+streamline-2.4.0/
+venv/
+backups/
+__pycache__/
+brew-mingw.log
+
+# Build outputs (rebuild with the commands in README.md)
+*.exe
+*.dll
+*.dylib
+*.bin
+gvas/*.js
+tsverify/*.js
+mfx/mfxbench-*
+
+# Disassembly and strings of Apple's D3DMetal and the game's executable
+*.asm
+out/exe-wstrings.txt
+
+# Screenshots that only caught the desktop
+out/secondary100*.jpg
+
+# Older copies of scripts in bin/
+recovered/measure.sh
+recovered/perf.py
+recovered/run-gptk3.sh

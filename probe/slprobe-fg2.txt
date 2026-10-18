@@ -1,0 +1,293 @@
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\wineboot.exe" at 0000000140000000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 000000007B000000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 000000007B600000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcrt.dll" at 00000001C8DB0000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00000003AF670000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 000000032A700000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 0000000330260000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ws2_32.dll" at 00000001EC2B0000: builtin
+0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\services.exe" at 0000000140000000: builtin
+0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 000000007B000000: builtin
+0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 000000007B600000: builtin
+0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcrt.dll" at 00000001C8DB0000: builtin
+0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00000003AF670000: builtin
+0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 000000032A700000: builtin
+0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 0000000330260000: builtin
+0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0000000231AE0000: builtin
+0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\version.dll" at 00000002F1FA0000: builtin
+0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\setupapi.dll" at 000000021A7E0000: builtin
+0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\userenv.dll" at 0000000388E20000: builtin
+0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\winedevice.exe" at 0000000140000000: builtin
+0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 000000007B000000: builtin
+0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 000000007B600000: builtin
+0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcrt.dll" at 00000001C8DB0000: builtin
+0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00000003AF670000: builtin
+0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 000000032A700000: builtin
+0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 0000000330260000: builtin
+0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ntoskrnl.exe" at 00000002279A0000: builtin
+0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0000000231AE0000: builtin
+004c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\drivers\\mountmgr.sys" at 00000001FBAC0000: builtin
+004c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\version.dll" at 00000002F1FA0000: builtin
+004c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\setupapi.dll" at 000000021A7E0000: builtin
+0060:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\winedevice.exe" at 0000000140000000: builtin
+0060:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 000000007B000000: builtin
+0060:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 000000007B600000: builtin
+0060:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcrt.dll" at 00000001C8DB0000: builtin
+0060:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00000003AF670000: builtin
+0060:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 000000032A700000: builtin
+0060:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 0000000330260000: builtin
+0060:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ntoskrnl.exe" at 00000002279A0000: builtin
+0060:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0000000231AE0000: builtin
+0068:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\drivers\\hidparse.sys" at 00000002ADF30000: builtin
+0068:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\drivers\\winebus.sys" at 00000001C9230000: builtin
+0068:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\version.dll" at 00000002F1FA0000: builtin
+0068:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\setupapi.dll" at 000000021A7E0000: builtin
+0068:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\win32u.dll" at 000000006F980000: builtin
+0068:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\drivers\\hidclass.sys" at 000000031DF10000: builtin
+0068:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\drivers\\winehid.sys" at 00000003BA2A0000: builtin
+0068:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\gdi32.dll" at 000000026B4C0000: builtin
+0068:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\user32.dll" at 000000023D820000: builtin
+0068:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\imm32.dll" at 00000003AFD00000: builtin
+0068:trace:seh:dispatch_exception code=6ba flags=0 addr=000000007B01547E ip=000000007B01547E tid=0068
+0068:warn:seh:dispatch_exception unknown exception (code=6ba) raised
+0068:trace:seh:dispatch_exception  rax=000000007b015430 rbx=0000000000ecd4d8 rcx=0000000000ecd1f0 rdx=0000000000000000
+0068:trace:seh:dispatch_exception  rsi=00000000000000c8 rdi=00000000003418a0 rbp=0000000000008000 rsp=0000000000ecd1d0
+0068:trace:seh:dispatch_exception   r8=0000000000000000  r9=0000000000000000 r10=0000000000330138 r11=00000000000f50b8
+0068:trace:seh:dispatch_exception  r12=00000000000000b4 r13=000000007b635e98 r14=0000000000000000 r15=0000000000000001
+0068:trace:seh:call_vectored_handlers calling handler at 00000002279AD690 code=6ba flags=0
+0068:trace:seh:call_vectored_handlers handler at 00000002279AD690 returned 0
+0068:trace:seh:call_stack_handlers found wine frame 0000000000ECD3B0 rsp 0000000000ECD6A0 handler 00000002279C83A0
+0068:trace:seh:call_teb_handler calling TEB handler 00000002279C83A0 (rec=0000000000ECD1F0, frame=0000000000ECD3B0 context=0000000000ECC730, dispatch=0000000000ECC600)
+0068:trace:seh:call_teb_handler handler at 00000002279C83A0 returned 1
+0068:trace:seh:call_stack_handlers found wine frame 0000000000ECD6D0 rsp 0000000000ECD810 handler 00000002279C9A90
+0068:trace:seh:call_teb_handler calling TEB handler 00000002279C9A90 (rec=0000000000ECD1F0, frame=0000000000ECD6D0 context=0000000000ECC730, dispatch=0000000000ECC600)
+0068:trace:seh:RtlRestoreContext returning to 00000002279C9A2A stack 0000000000ECD6A0
+0068:trace:seh:dispatch_exception code=6ba flags=0 addr=000000007B01547E ip=000000007B01547E tid=0068
+0068:warn:seh:dispatch_exception unknown exception (code=6ba) raised
+0068:trace:seh:dispatch_exception  rax=000000007b015430 rbx=0000000000ecd4d8 rcx=0000000000ecd1f0 rdx=0000000000000000
+0068:trace:seh:dispatch_exception  rsi=00000000000000c8 rdi=00000000003418a0 rbp=0000000000008000 rsp=0000000000ecd1d0
+0068:trace:seh:dispatch_exception   r8=0000000000000000  r9=0000000000000000 r10=0000000000330138 r11=00000000000f50b8
+0068:trace:seh:dispatch_exception  r12=00000000000000b4 r13=000000007b635e98 r14=0000000000000000 r15=0000000000000001
+0068:trace:seh:call_vectored_handlers calling handler at 00000002279AD690 code=6ba flags=0
+0068:trace:seh:call_vectored_handlers handler at 00000002279AD690 returned 0
+0068:trace:seh:call_stack_handlers found wine frame 0000000000ECD3B0 rsp 0000000000ECD6A0 handler 00000002279C83A0
+0068:trace:seh:call_teb_handler calling TEB handler 00000002279C83A0 (rec=0000000000ECD1F0, frame=0000000000ECD3B0 context=0000000000ECC730, dispatch=0000000000ECC600)
+0068:trace:seh:call_teb_handler handler at 00000002279C83A0 returned 1
+0068:trace:seh:call_stack_handlers found wine frame 0000000000ECD6D0 rsp 0000000000ECD810 handler 00000002279C9A90
+0068:trace:seh:call_teb_handler calling TEB handler 00000002279C9A90 (rec=0000000000ECD1F0, frame=0000000000ECD6D0 context=0000000000ECC730, dispatch=0000000000ECC600)
+0068:trace:seh:RtlRestoreContext returning to 00000002279C9A2A stack 0000000000ECD6A0
+0068:trace:seh:dispatch_exception code=6ba flags=0 addr=000000007B01547E ip=000000007B01547E tid=0068
+0068:warn:seh:dispatch_exception unknown exception (code=6ba) raised
+0068:trace:seh:dispatch_exception  rax=000000007b015430 rbx=0000000000ecd4d8 rcx=0000000000ecd1f0 rdx=0000000000000000
+0068:trace:seh:dispatch_exception  rsi=00000000000000c8 rdi=00000000003418a0 rbp=0000000000008000 rsp=0000000000ecd1d0
+0068:trace:seh:dispatch_exception   r8=0000000000000000  r9=0000000000000000 r10=0000000000330138 r11=00000000000ef8b8
+0068:trace:seh:dispatch_exception  r12=00000000000000b4 r13=000000007b635e98 r14=0000000000000000 r15=0000000000000001
+0068:trace:seh:call_vectored_handlers calling handler at 00000002279AD690 code=6ba flags=0
+0068:trace:seh:call_vectored_handlers handler at 00000002279AD690 returned 0
+0068:trace:seh:call_stack_handlers found wine frame 0000000000ECD3B0 rsp 0000000000ECD6A0 handler 00000002279C83A0
+0068:trace:seh:call_teb_handler calling TEB handler 00000002279C83A0 (rec=0000000000ECD1F0, frame=0000000000ECD3B0 context=0000000000ECC730, dispatch=0000000000ECC600)
+0068:trace:seh:call_teb_handler handler at 00000002279C83A0 returned 1
+0068:trace:seh:call_stack_handlers found wine frame 0000000000ECD6D0 rsp 0000000000ECD810 handler 00000002279C9A90
+0068:trace:seh:call_teb_handler calling TEB handler 00000002279C9A90 (rec=0000000000ECD1F0, frame=0000000000ECD6D0 context=0000000000ECC730, dispatch=0000000000ECC600)
+0068:trace:seh:RtlRestoreContext returning to 00000002279C9A2A stack 0000000000ECD6A0
+0068:trace:seh:dispatch_exception code=6ba flags=0 addr=000000007B01547E ip=000000007B01547E tid=0068
+0068:warn:seh:dispatch_exception unknown exception (code=6ba) raised
+0068:trace:seh:dispatch_exception  rax=000000007b015430 rbx=0000000000ecd4d8 rcx=0000000000ecd1f0 rdx=0000000000000000
+0068:trace:seh:dispatch_exception  rsi=00000000000000c8 rdi=00000000003418a0 rbp=0000000000008000 rsp=0000000000ecd1d0
+0068:trace:seh:dispatch_exception   r8=0000000000000000  r9=0000000000000000 r10=0000000000330138 r11=00000000000ef8b8
+0068:trace:seh:dispatch_exception  r12=00000000000000b4 r13=000000007b635e98 r14=0000000000000000 r15=0000000000000001
+0068:trace:seh:call_vectored_handlers calling handler at 00000002279AD690 code=6ba flags=0
+0068:trace:seh:call_vectored_handlers handler at 00000002279AD690 returned 0
+0068:trace:seh:call_stack_handlers found wine frame 0000000000ECD3B0 rsp 0000000000ECD6A0 handler 00000002279C83A0
+0068:trace:seh:call_teb_handler calling TEB handler 00000002279C83A0 (rec=0000000000ECD1F0, frame=0000000000ECD3B0 context=0000000000ECC730, dispatch=0000000000ECC600)
+0068:trace:seh:call_teb_handler handler at 00000002279C83A0 returned 1
+0068:trace:seh:call_stack_handlers found wine frame 0000000000ECD6D0 rsp 0000000000ECD810 handler 00000002279C9A90
+0068:trace:seh:call_teb_handler calling TEB handler 00000002279C9A90 (rec=0000000000ECD1F0, frame=0000000000ECD6D0 context=0000000000ECC730, dispatch=0000000000ECC600)
+0068:trace:seh:RtlRestoreContext returning to 00000002279C9A2A stack 0000000000ECD6A0
+0084:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\plugplay.exe" at 0000000140000000: builtin
+0084:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 000000007B000000: builtin
+0084:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 000000007B600000: builtin
+0084:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcrt.dll" at 00000001C8DB0000: builtin
+0084:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00000003AF670000: builtin
+0084:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 000000032A700000: builtin
+0084:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 0000000330260000: builtin
+0084:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0000000231AE0000: builtin
+0084:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\win32u.dll" at 000000006F980000: builtin
+0084:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\gdi32.dll" at 000000026B4C0000: builtin
+0084:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\version.dll" at 00000002F1FA0000: builtin
+0084:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\user32.dll" at 000000023D820000: builtin
+0084:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\imm32.dll" at 00000003AFD00000: builtin
+009c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\svchost.exe" at 0000000140000000: builtin
+009c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 000000007B000000: builtin
+009c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 000000007B600000: builtin
+009c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcrt.dll" at 00000001C8DB0000: builtin
+009c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00000003AF670000: builtin
+009c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 000000032A700000: builtin
+009c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 0000000330260000: builtin
+009c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\wevtsvc.dll" at 00000002EBA70000: builtin
+009c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0000000231AE0000: builtin
+004c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\drivers\\nsiproxy.sys" at 0000000229880000: builtin
+004c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\dnsapi.dll" at 000000029CFC0000: builtin
+004c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\nsi.dll" at 000000028DFA0000: builtin
+004c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\iphlpapi.dll" at 0000000240030000: builtin
+004c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\drivers\\ndis.sys" at 00000001DC4B0000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\version.dll" at 00000002F1FA0000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\win32u.dll" at 000000006F980000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\user32.dll" at 000000023D820000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\gdi32.dll" at 000000026B4C0000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0000000231AE0000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\combase.dll" at 0000000327020000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ole32.dll" at 00000002E8F10000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shcore.dll" at 00000003126F0000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shlwapi.dll" at 00000002E3540000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shell32.dll" at 00000001C69E0000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\imm32.dll" at 00000003AFD00000: builtin
+0024:trace:loaddll:build_module Loaded L"Z:\\Users\\shaurya\\hb2lab\\probe\\slprobe.exe" at 0000000140000000: native
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 000000007B000000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 000000007B600000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcrt.dll" at 00000001C8DB0000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00000003AF670000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 000000032A700000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 0000000330260000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\win32u.dll" at 000000006F980000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\gdi32.dll" at 000000026B4C0000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\version.dll" at 00000002F1FA0000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\user32.dll" at 000000023D820000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\dxgi.dll" at 0000000180000000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0000000231AE0000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\combase.dll" at 0000000327020000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ole32.dll" at 00000002E8F10000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\SHCORE.dll" at 00000003126F0000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\imm32.dll" at 00000003AFD00000: builtin
+00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\explorer.exe" at 0000000140000000: builtin
+00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 000000007B000000: builtin
+00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 000000007B600000: builtin
+00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcrt.dll" at 00000001C8DB0000: builtin
+00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00000003AF670000: builtin
+00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 000000032A700000: builtin
+00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 0000000330260000: builtin
+00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\version.dll" at 00000002F1FA0000: builtin
+00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\win32u.dll" at 000000006F980000: builtin
+00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\user32.dll" at 000000023D820000: builtin
+00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\gdi32.dll" at 000000026B4C0000: builtin
+00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0000000231AE0000: builtin
+00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\imm32.dll" at 00000003AFD00000: builtin
+00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\winemac.drv" at 000000006FB50000: builtin
+00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\uxtheme.dll" at 00000002F7230000: builtin
+00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\combase.dll" at 0000000327020000: builtin
+00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ole32.dll" at 00000002E8F10000: builtin
+00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shcore.dll" at 00000003126F0000: builtin
+00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shlwapi.dll" at 00000002E3540000: builtin
+00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shell32.dll" at 00000001C69E0000: builtin
+00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\oleaut32.dll" at 00000002739C0000: builtin
+00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\actxprxy.dll" at 00000001D0830000: builtin
+00b4:trace:seh:dispatch_exception code=6ba flags=0 addr=000000007B01547E ip=000000007B01547E tid=00b4
+00b4:warn:seh:dispatch_exception unknown exception (code=6ba) raised
+00b4:trace:seh:dispatch_exception  rax=000000007b015430 rbx=000000000021e9f8 rcx=000000000021e710 rdx=0000000000000000
+00b4:trace:seh:dispatch_exception  rsi=000000000000006c rdi=0000000000381040 rbp=0000000000380ee0 rsp=000000000021e6f0
+00b4:trace:seh:dispatch_exception   r8=0000000000000000  r9=0000000000000000 r10=0000000000330138 r11=00000000000000f0
+00b4:trace:seh:dispatch_exception  r12=0000000000000001 r13=0000000000381040 r14=000000017006e040 r15=0000000140017360
+00b4:trace:seh:call_stack_handlers found wine frame 000000000021E8D0 rsp 000000000021EBD0 handler 000000032704A2E0
+00b4:trace:seh:call_teb_handler calling TEB handler 000000032704A2E0 (rec=000000000021E710, frame=000000000021E8D0 context=000000000021DC50, dispatch=000000000021DB20)
+00b4:trace:seh:call_teb_handler handler at 000000032704A2E0 returned 1
+00b4:trace:seh:call_stack_handlers found wine frame 000000000021EC20 rsp 000000000021ED70 handler 000000032704C970
+00b4:trace:seh:call_teb_handler calling TEB handler 000000032704C970 (rec=000000000021E710, frame=000000000021EC20 context=000000000021DC50, dispatch=000000000021DB20)
+00b4:trace:seh:RtlRestoreContext returning to 000000032704C90A stack 000000000021EBD0
+00c8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcss.exe" at 0000000140000000: builtin
+00c8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 000000007B000000: builtin
+00c8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 000000007B600000: builtin
+00c8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcrt.dll" at 00000001C8DB0000: builtin
+00c8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00000003AF670000: builtin
+00c8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 000000032A700000: builtin
+00c8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 0000000330260000: builtin
+00c8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0000000231AE0000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\winemac.drv" at 000000006FB50000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\uxtheme.dll" at 00000002F7230000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\d3dkmt_hws.dll" at 0000000001550000: native
+display: SM_CXSCREEN=5120 SM_CYSCREEN=1440 virtual=5120x1440 systemDPI=96
+display: monitor '\\.\DISPLAY1' rect=(0,0)-(5120,1440) work=(0,30)-(5120,1440) effectiveDPI=96 mode=5120x1440@144
+os: RtlGetVersion 10.0.19043
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\dbghelp.dll" at 00000003BE590000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shlwapi.dll" at 00000002E3540000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\SHELL32.dll" at 00000001C69E0000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\MSVCP140.dll" at 0000000360E10000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\VCRUNTIME140.dll" at 000000026ED50000: builtin
+0024:trace:loaddll:build_module Loaded L"Z:\\Users\\shaurya\\Documents\\Games\\Senuas.Saga.Hellblade.II.v1.0.0.0.162837\\Senuas.Saga.Hellblade.II.v1.0.0.0.162837\\Engine\\Plugins\\Runtime\\Nvidia\\Streamline\\Binaries\\ThirdParty\\Win64\\sl.interposer.dll" at 0000000001860000: native
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\concrt140.dll" at 00000003871C0000: builtin
+sl: LoadLibrary('Z:\Users\shaurya\Documents\Games\Senuas.Saga.Hellblade.II.v1.0.0.0.162837\Senuas.Saga.Hellblade.II.v1.0.0.0.162837\Engine\Plugins\Runtime\Nvidia\Streamline\Binaries\ThirdParty\Win64\sl.interposer.dll')=0000000001860000 error=0
+00f0:fixme:msvcp:_Locinfo__Locinfo_ctor_cat_cstr (0000000001AEF360 1 C) semi-stub
+00f0:fixme:msvcp:_Locinfo__Locinfo_ctor_cat_cstr (0000000001AEF3B0 1 C) semi-stub
+00f0:fixme:msvcp:_Locinfo__Locinfo_ctor_cat_cstr (0000000001AEF3F0 1 C) semi-stub
+00f0:fixme:msvcp:_Locinfo__Locinfo_ctor_cat_cstr (0000000001AEF3A0 1 C) semi-stub
+00f0:fixme:msvcp:_Locinfo__Locinfo_ctor_cat_cstr (0000000001AEF0B0 1 C) semi-stub
+  [sl 0] [20-08-29][streamline][info][tid:240][0s:007ms:897us]pluginmanager.cpp:100[setHostSDKVersion] Streamline v2.4.1.f13cbfa2 - built on Thu Apr 18 20:22:38 2024 - host SDK v2.4.0
+  [sl 2] [20-08-29][streamline][error][tid:240][0s:009ms:038us]file.h:94[open] File 'C:\ProgramData/NVIDIA/NGX/models/nvngx_config.txt' does not exist
+  [sl 2] [20-08-29][streamline][error][tid:240][0s:009ms:084us]ota.cpp:255[readServerManifest] Failed to open manifest file at: C:\ProgramData/NVIDIA/NGX/models/nvngx_config.txt
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msasn1.dll" at 00000003B5000000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\bcrypt.dll" at 00000002D4D40000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\crypt32.dll" at 00000001DD3F0000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\cryptnet.dll" at 00000002D1070000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\nvapi64.dll" at 0000000001BF0000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\nvngx.dll" at 0000000001C00000: builtin
+0024:trace:seh:dispatch_exception code=c000001d flags=0 addr=00007FF81A824813 ip=00007FF81A824813 tid=0024
+0024:warn:seh:dispatch_exception EXCEPTION_ILLEGAL_INSTRUCTION exception (code=c000001d) raised
+0024:trace:seh:dispatch_exception  rax=0000000000002301 rbx=00000000746c2790 rcx=00007ff81a82d7b7 rdx=00000000746c2790
+0024:trace:seh:dispatch_exception  rsi=0000000000002303 rdi=0000000000000003 rbp=000000000021e380 rsp=000000000021e358
+0024:trace:seh:dispatch_exception   r8=0000000000002301  r9=0000000000000001 r10=0000000000330138 r11=000000000037ee40
+0024:trace:seh:dispatch_exception  r12=0000000000000016 r13=000000000000007f r14=0000000000002303 r15=000000000021e360
+0024:fixme:unwind:virtual_unwind calling personality routine in system library not supported yet
+0024:fixme:unwind:virtual_unwind calling personality routine in system library not supported yet
+0024:fixme:unwind:virtual_unwind calling personality routine in system library not supported yet
+0024:fixme:unwind:virtual_unwind calling personality routine in system library not supported yet
+0024:fixme:unwind:virtual_unwind calling personality routine in system library not supported yet
+0024:trace:seh:call_handler calling handler 00000000018B2480 (rec=000000000021E290, frame=000000000021ECE0 context=000000000021D800, dispatch=000000000021D6D0)
+0024:trace:seh:call_handler handler at 00000000018B2480 returned 1
+0024:trace:seh:call_handler calling handler 00000000018B24FC (rec=000000000021E290, frame=000000000021EF90 context=000000000021D800, dispatch=000000000021D6D0)
+0024:trace:seh:call_handler handler at 00000000018B24FC returned 1
+0024:trace:seh:call_handler calling handler 00000000018B24FC (rec=000000000021E290, frame=000000000021F170 context=000000000021D800, dispatch=000000000021D6D0)
+0024:trace:seh:call_handler handler at 00000000018B24FC returned 1
+0024:trace:seh:call_handler calling handler 00000000018B2CC6 (rec=000000000021E290, frame=000000000021F670 context=000000000021D800, dispatch=000000000021D6D0)
+0024:trace:seh:__C_specific_handler 000000000021E290 000000000021F670 000000000021DDA0 000000000021D6D0
+0024:trace:seh:__C_specific_handler calling filter 00000000018B2F00 ptrs 000000000021D600 frame 000000000021F670
+  [sl 2] [20-08-29][streamline][error][tid:240][0s:031ms:087us]exception.cpp:75[writeMiniDump] Exception detected - thread 36 - creating mini-dump 'C:\ProgramData/NVIDIA/Streamline/slprobe/1792292909941339/sl-sha-f13cbfa2.dmp'
+0024:err:dbghelp_msc:codeview_process_info Unknown CODEVIEW signature 00000000 in module L"dxgi"
+0024:err:dbghelp_msc:codeview_process_info Unknown CODEVIEW signature 00000000 in module L"nvapi64"
+0024:err:dbghelp_msc:codeview_process_info Unknown CODEVIEW signature 00000000 in module L"nvngx"
+0024:fixme:thread:get_thread_times not implemented on this platform
+0024:fixme:dbghelp:MiniDumpWriteDump NIY MiniDumpWithHandleData
+0024:fixme:unwind:virtual_unwind calling personality routine in system library not supported yet
+0024:fixme:unwind:virtual_unwind calling personality routine in system library not supported yet
+0024:fixme:unwind:virtual_unwind calling personality routine in system library not supported yet
+0024:fixme:unwind:virtual_unwind calling personality routine in system library not supported yet
+0024:fixme:unwind:virtual_unwind calling personality routine in system library not supported yet
+0024:trace:seh:__CxxFrameHandler 000000000021E290 21ef90 000000000021D800 000000000021CF70
+0024:trace:seh:ip_to_state 3b2e6 -> -1
+0024:trace:seh:__CxxFrameHandler 000000000021E290 21f170 000000000021D800 000000000021CF70
+0024:trace:seh:ip_to_state 43d77 -> 0
+0024:trace:seh:__CxxFrameHandler 000000000021E290 21f600 000000000021D800 000000000021CF70
+0024:trace:seh:ip_to_state 6137 -> -1
+0024:trace:seh:RtlRestoreContext returning to 0000000001865EB4 stack 000000000021F670
+sl: slInit=eErrorExceptionHandler
+0024:trace:seh:dispatch_exception code=c000001d flags=0 addr=00007FF81A824813 ip=00007FF81A824813 tid=0024
+0024:warn:seh:dispatch_exception EXCEPTION_ILLEGAL_INSTRUCTION exception (code=c000001d) raised
+0024:trace:seh:dispatch_exception  rax=0000000000002301 rbx=00000000746c2790 rcx=00007ff81a82d7b7 rdx=00000000746c2790
+0024:trace:seh:dispatch_exception  rsi=0000000000002303 rdi=0000000000000002 rbp=000000000021f360 rsp=000000000021f338
+0024:trace:seh:dispatch_exception   r8=0000000000002301  r9=0000000000ac82a0 r10=0000000000000001 r11=00000000fffffffe
+0024:trace:seh:dispatch_exception  r12=0000000001860000 r13=00000000000005a0 r14=0000000000002303 r15=000000000021f340
+0024:trace:seh:call_handler calling handler 000000014002C570 (rec=000000000021F270, frame=000000000021F440 context=000000000021E7E0, dispatch=000000000021E6B0)
+0024:trace:seh:call_handler handler at 000000014002C570 returned 1
+0024:trace:seh:call_handler calling handler 000000014002C570 (rec=000000000021F270, frame=000000000021F6B0 context=000000000021E7E0, dispatch=000000000021E6B0)
+0024:trace:seh:call_handler handler at 000000014002C570 returned 1
+0024:trace:seh:call_handler calling handler 00000001400195B0 (rec=000000000021F270, frame=000000000021FE10 context=000000000021E7E0, dispatch=000000000021E6B0)
+0024:trace:seh:__C_specific_handler 000000000021F270 000000000021FE10 000000000021ED80 000000000021E6B0
+0024:trace:seh:__C_specific_handler calling filter 000000014000F6D0 ptrs 000000000021E5E0 frame 000000000021FE10
+0024:trace:seh:signal (4, 0000000000000000)
+0024:trace:seh:call_handler handler at 00000001400195B0 returned 1
+0024:trace:seh:call_stack_handlers found wine frame 000000000021FEA0 rsp 000000000021FFE0 handler 000000017007B210
+0024:trace:seh:call_teb_handler calling TEB handler 000000017007B210 (rec=000000000021F270, frame=000000000021FEA0 context=000000000021E7E0, dispatch=000000000021E6B0)
+0024:trace:seh:signal (4, 0000000000000000)
+wine: Unhandled illegal instruction at address 00007FF81A824813 (thread 0024), starting debugger...
+0024:trace:seh:start_debugger Starting debugger L"winedbg --auto 32 124"
+0024:err:seh:start_debugger Couldn't start debugger L"winedbg --auto 32 124" (2)
+Read the Wine Developers Guide on how to set up winedbg or another debugger
+0024:trace:seh:RtlRestoreContext returning to 000000017007B1AA stack 000000000021FE70

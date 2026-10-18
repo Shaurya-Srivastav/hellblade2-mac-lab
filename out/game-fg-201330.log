@@ -1,0 +1,55 @@
+2026-10-17 20:13:37.034 wine64-preloader[7955:60545] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7fad04905040 Enable HUD, ke='Command-F9', action: toggleEnabled:>, but is only supported for system-provided menu items; will not be used
+2026-10-17 20:13:37.034 wine64-preloader[7955:60860] [libMTLHud] Metric com.apple.hud-stat.frame-interval already exist
+2026-10-17 20:13:37.034 wine64-preloader[7955:60860] [libMTLHud] Metric com.apple.hud-stat.present-delay already exist
+2026-10-17 20:13:37.034 wine64-preloader[7955:60545] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7face5248f30 Enable Logging, ke='Command-F8', action: toggleLoggingEnabled:>, but is only supported for system-provided menu items; will not be used
+2026-10-17 20:13:37.034 wine64-preloader[7955:60860] [libMTLHud] Metric com.apple.hud-stat.fps already exist
+2026-10-17 20:13:37.034 wine64-preloader[7955:60545] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7facc42a94d0 Reset Metrics, ke='Command-F11', action: resetMetrics:>, but is only supported for system-provided menu items; will not be used
+2026-10-17 20:13:37.034 wine64-preloader[7955:60545] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7facc42a9e80 Show Configuration Panel, ke='Command-F12', action: showConfigurationPanel:>, but is only supported for system-provided menu items; will not be used
+2026-10-17 20:13:37.034 wine64-preloader[7955:60545] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7facc42a5df0 Copy HUD Configuration, action: copyConfig:>, but is only supported for system-provided menu items; will not be used
+2026-10-17 20:13:37.969 wine64-preloader[7955:60545] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7fac641ba210 5 Seconds, ke='Command-F9', action: generateReport:>, but is only supported for system-provided menu items; will not be used
+2026-10-17 20:13:37.969 wine64-preloader[7955:60545] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7fac641baa90 30 Seconds, ke='Command-F10', action: generateReport:>, but is only supported for system-provided menu items; will not be used
+2026-10-17 20:13:37.969 wine64-preloader[7955:60545] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7fac641bae20 1 Minute, ke='Command-F11', action: generateReport:>, but is only supported for system-provided menu items; will not be used
+2026-10-17 20:13:37.969 wine64-preloader[7955:60545] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7fac641bb1d0 5 Minutes, ke='Command-F12', action: generateReport:>, but is only supported for system-provided menu items; will not be used
+[metal-shaderconverter] Warning: Undefined: Shader might rely on forward progress/persistent thread
+[metal-shaderconverter] Warning: Undefined: Shader might rely on forward progress/persistent thread
+[metal-shaderconverter] Warning: Undefined: Shader might rely on forward progress/persistent thread
+[metal-shaderconverter] Warning: Undefined: Shader might rely on forward progress/persistent thread
+[metal-shaderconverter] Warning: Undefined: Shader might rely on forward progress/persistent thread
+[metal-shaderconverter] Warning: Undefined: Shader might rely on forward progress/persistent thread
+2026-10-17 20:13:49.895 wine64-preloader[7955:61320] 
+Error:
+
+ Error Domain=com.apple.appleneuralengine Code=26 "doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error" UserInfo={NSLocalizedDescription=doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error}
+2026-10-17 20:13:51.545 wine64-preloader[7955:60860] [libMTLHud] Metric com.apple.hud-label.metalfx.timing already exist
+2026-10-17 20:13:51.767 wine64-preloader[7955:61309] 
+Error:
+
+ Error Domain=com.apple.appleneuralengine Code=26 "doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error" UserInfo={NSLocalizedDescription=doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error}
+2026-10-17 20:13:52.172 wine64-preloader[7955:60936] 
+Error:
+
+ Error Domain=com.apple.appleneuralengine Code=26 "doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error" UserInfo={NSLocalizedDescription=doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error}
+[metal-shaderconverter] Warning: Undefined: Shader might rely on forward progress/persistent thread
+AGX: exceeded compiled variants footprint limit
+[metal-shaderconverter] Warning: Undefined: Shader might rely on forward progress/persistent thread
+[metal-shaderconverter] Warning: Undefined: Shader might rely on forward progress/persistent thread
+2026-10-17 20:22:24.034 wine64-preloader[7955:61314] 
+Error:
+
+ Error Domain=com.apple.appleneuralengine Code=26 "doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error" UserInfo={NSLocalizedDescription=doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error}
+2026-10-17 20:29:18.331 wine64-preloader[7955:60545] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7fad04d99610 5 Seconds, ke='Command-F9', action: generateReport:>, but is only supported for system-provided menu items; will not be used
+2026-10-17 20:29:18.331 wine64-preloader[7955:60545] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7fac542c6ad0 30 Seconds, ke='Command-F10', action: generateReport:>, but is only supported for system-provided menu items; will not be used
+2026-10-17 20:29:18.331 wine64-preloader[7955:60545] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7fac5420aa00 1 Minute, ke='Command-F11', action: generateReport:>, but is only supported for system-provided menu items; will not be used
+2026-10-17 20:29:18.331 wine64-preloader[7955:60545] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7fac5425bdd0 5 Minutes, ke='Command-F12', action: generateReport:>, but is only supported for system-provided menu items; will not be used
+2026-10-17 20:29:29.174 wine64-preloader[7955:60605] 
+Error:
+
+ Error Domain=com.apple.appleneuralengine Code=26 "doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error" UserInfo={NSLocalizedDescription=doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error}
+2026-10-17 20:29:40.812 wine64-preloader[7955:78036] 
+Error:
+
+ Error Domain=com.apple.appleneuralengine Code=26 "doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error" UserInfo={NSLocalizedDescription=doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error}
+2026-10-17 20:35:53.153 wine64-preloader[7955:60545] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7fac602a01b0 5 Seconds, ke='Command-F9', action: generateReport:>, but is only supported for system-provided menu items; will not be used
+2026-10-17 20:35:53.153 wine64-preloader[7955:60545] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7fac557ab6b0 30 Seconds, ke='Command-F10', action: generateReport:>, but is only supported for system-provided menu items; will not be used
+2026-10-17 20:35:53.153 wine64-preloader[7955:60545] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7fac822aab30 1 Minute, ke='Command-F11', action: generateReport:>, but is only supported for system-provided menu items; will not be used
+2026-10-17 20:35:53.153 wine64-preloader[7955:60545] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7fac55759ae0 5 Minutes, ke='Command-F12', action: generateReport:>, but is only supported for system-provided menu items; will not be used

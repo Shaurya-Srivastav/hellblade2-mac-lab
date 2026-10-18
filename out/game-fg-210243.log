@@ -1,0 +1,66 @@
+2026-10-17 21:02:47.411 wine64-preloader[49975:150142] [libMTLHud] Metric com.apple.hud-stat.frame-interval already exist
+2026-10-17 21:02:47.411 wine64-preloader[49975:150142] [libMTLHud] Metric com.apple.hud-stat.present-delay already exist
+2026-10-17 21:02:47.411 wine64-preloader[49975:150142] [libMTLHud] Metric com.apple.hud-stat.fps already exist
+2026-10-17 21:02:47.411 wine64-preloader[49975:149473] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7fb78ef1b8a0 Enable HUD, ke='Command-F9', action: toggleEnabled:>, but is only supported for system-provided menu items; will not be used
+2026-10-17 21:02:47.411 wine64-preloader[49975:149473] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7fb7bf94beb0 Enable Logging, ke='Command-F8', action: toggleLoggingEnabled:>, but is only supported for system-provided menu items; will not be used
+2026-10-17 21:02:47.411 wine64-preloader[49975:149473] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7fb7bf94d780 Reset Metrics, ke='Command-F11', action: resetMetrics:>, but is only supported for system-provided menu items; will not be used
+2026-10-17 21:02:47.412 wine64-preloader[49975:149473] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7fb7bf94e180 Show Configuration Panel, ke='Command-F12', action: showConfigurationPanel:>, but is only supported for system-provided menu items; will not be used
+2026-10-17 21:02:47.412 wine64-preloader[49975:149473] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7fb7bf94e350 Copy HUD Configuration, action: copyConfig:>, but is only supported for system-provided menu items; will not be used
+2026-10-17 21:02:50.256 wine64-preloader[49975:150140] 
+Error:
+
+ Error Domain=com.apple.appleneuralengine Code=26 "doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error" UserInfo={NSLocalizedDescription=doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error}
+2026-10-17 21:02:50.335 wine64-preloader[49975:150147] [libMTLHud] Metric com.apple.hud-label.metalfx.timing already exist
+2026-10-17 21:02:50.499 wine64-preloader[49975:150140] 
+Error:
+
+ Error Domain=com.apple.appleneuralengine Code=26 "doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error" UserInfo={NSLocalizedDescription=doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error}
+AGX: exceeded compiled variants footprint limit
+2026-10-17 21:03:28.680 wine64-preloader[49975:150143] 
+Error:
+
+ Error Domain=com.apple.appleneuralengine Code=26 "doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error" UserInfo={NSLocalizedDescription=doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error}
+2026-10-17 21:03:39.318 wine64-preloader[49975:150143] 
+Error:
+
+ Error Domain=com.apple.appleneuralengine Code=26 "doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error" UserInfo={NSLocalizedDescription=doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error}
+2026-10-17 21:08:27.976 wine64-preloader[49975:153227] 
+Error:
+
+ Error Domain=com.apple.appleneuralengine Code=26 "doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error" UserInfo={NSLocalizedDescription=doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error}
+2026-10-17 21:08:37.499 wine64-preloader[49975:150131] 
+Error:
+
+ Error Domain=com.apple.appleneuralengine Code=26 "doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error" UserInfo={NSLocalizedDescription=doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error}
+2026-10-17 21:09:02.257 wine64-preloader[49975:153227] 
+Error:
+
+ Error Domain=com.apple.appleneuralengine Code=26 "doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error" UserInfo={NSLocalizedDescription=doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error}
+2026-10-17 21:09:11.744 wine64-preloader[49975:156696] 
+Error:
+
+ Error Domain=com.apple.appleneuralengine Code=26 "doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error" UserInfo={NSLocalizedDescription=doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error}
+2026-10-17 21:09:23.631 wine64-preloader[49975:153223] 
+Error:
+
+ Error Domain=com.apple.appleneuralengine Code=26 "doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error" UserInfo={NSLocalizedDescription=doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error}
+2026-10-17 21:09:32.987 wine64-preloader[49975:153227] 
+Error:
+
+ Error Domain=com.apple.appleneuralengine Code=26 "doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error" UserInfo={NSLocalizedDescription=doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error}
+2026-10-17 21:09:53.553 wine64-preloader[49975:156694] 
+Error:
+
+ Error Domain=com.apple.appleneuralengine Code=26 "doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error" UserInfo={NSLocalizedDescription=doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error}
+2026-10-17 21:10:02.871 wine64-preloader[49975:150131] 
+Error:
+
+ Error Domain=com.apple.appleneuralengine Code=26 "doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error" UserInfo={NSLocalizedDescription=doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error}
+2026-10-17 21:10:13.629 wine64-preloader[49975:156696] 
+Error:
+
+ Error Domain=com.apple.appleneuralengine Code=26 "doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error" UserInfo={NSLocalizedDescription=doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error}
+2026-10-17 21:10:23.014 wine64-preloader[49975:149476] 
+Error:
+
+ Error Domain=com.apple.appleneuralengine Code=26 "doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error" UserInfo={NSLocalizedDescription=doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error}

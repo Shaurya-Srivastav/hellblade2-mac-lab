@@ -1,0 +1,30 @@
+2026-10-17 20:50:03.928 wine64-preloader[35134:122800] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7faefc3bfe90 Enable HUD, ke='Command-F9', action: toggleEnabled:>, but is only supported for system-provided menu items; will not be used
+2026-10-17 20:50:03.928 wine64-preloader[35134:123502] [libMTLHud] Metric com.apple.hud-stat.frame-interval already exist
+2026-10-17 20:50:03.928 wine64-preloader[35134:123502] [libMTLHud] Metric com.apple.hud-stat.present-delay already exist
+2026-10-17 20:50:03.928 wine64-preloader[35134:123502] [libMTLHud] Metric com.apple.hud-stat.fps already exist
+2026-10-17 20:50:03.928 wine64-preloader[35134:122800] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7faefc3cfbe0 Enable Logging, ke='Command-F8', action: toggleLoggingEnabled:>, but is only supported for system-provided menu items; will not be used
+2026-10-17 20:50:03.929 wine64-preloader[35134:122800] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7faefc3d1b70 Reset Metrics, ke='Command-F11', action: resetMetrics:>, but is only supported for system-provided menu items; will not be used
+2026-10-17 20:50:03.929 wine64-preloader[35134:122800] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7faefc3ddbd0 Show Configuration Panel, ke='Command-F12', action: showConfigurationPanel:>, but is only supported for system-provided menu items; will not be used
+2026-10-17 20:50:03.929 wine64-preloader[35134:122800] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7faefc3c3000 Copy HUD Configuration, action: copyConfig:>, but is only supported for system-provided menu items; will not be used
+2026-10-17 20:50:06.735 wine64-preloader[35134:123507] 
+Error:
+
+ Error Domain=com.apple.appleneuralengine Code=26 "doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error" UserInfo={NSLocalizedDescription=doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error}
+2026-10-17 20:50:06.819 wine64-preloader[35134:123507] [libMTLHud] Metric com.apple.hud-label.metalfx.timing already exist
+2026-10-17 20:50:06.927 wine64-preloader[35134:123507] 
+Error:
+
+ Error Domain=com.apple.appleneuralengine Code=26 "doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error" UserInfo={NSLocalizedDescription=doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error}
+2026-10-17 20:50:07.073 wine64-preloader[35134:122806] 
+Error:
+
+ Error Domain=com.apple.appleneuralengine Code=26 "doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error" UserInfo={NSLocalizedDescription=doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error}
+AGX: exceeded compiled variants footprint limit
+2026-10-17 20:50:37.686 wine64-preloader[35134:123368] 
+Error:
+
+ Error Domain=com.apple.appleneuralengine Code=26 "doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error" UserInfo={NSLocalizedDescription=doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error}
+2026-10-17 20:50:47.029 wine64-preloader[35134:123502] 
+Error:
+
+ Error Domain=com.apple.appleneuralengine Code=26 "doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error" UserInfo={NSLocalizedDescription=doCompileModel:csIdentity:sandboxExtension:options:qos:withReply:: Bad argument error}

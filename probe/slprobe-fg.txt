@@ -1,0 +1,10 @@
+display: SM_CXSCREEN=5120 SM_CYSCREEN=1440 virtual=5120x1440 systemDPI=96
+display: monitor '\\.\DISPLAY1' rect=(0,0)-(5120,1440) work=(0,30)-(5120,1440) effectiveDPI=96 mode=5120x1440@144
+os: RtlGetVersion 10.0.19043
+sl: LoadLibrary('Z:\Users\shaurya\Documents\Games\Senuas.Saga.Hellblade.II.v1.0.0.0.162837\Senuas.Saga.Hellblade.II.v1.0.0.0.162837\Engine\Plugins\Runtime\Nvidia\Streamline\Binaries\ThirdParty\Win64\sl.interposer.dll')=0000000001860000 error=0
+  [sl 0] [20-07-37][streamline][info][tid:240][0s:007ms:399us]pluginmanager.cpp:100[setHostSDKVersion] Streamline v2.4.1.f13cbfa2 - built on Thu Apr 18 20:22:38 2024 - host SDK v2.4.0
+  [sl 2] [20-07-37][streamline][error][tid:240][0s:008ms:703us]file.h:94[open] File 'C:\ProgramData/NVIDIA/NGX/models/nvngx_config.txt' does not exist
+  [sl 2] [20-07-37][streamline][error][tid:240][0s:008ms:737us]ota.cpp:255[readServerManifest] Failed to open manifest file at: C:\ProgramData/NVIDIA/NGX/models/nvngx_config.txt
+  [sl 2] [20-07-38][streamline][error][tid:240][1s:594ms:157us]exception.cpp:75[writeMiniDump] Exception detected - thread 36 - creating mini-dump 'C:\ProgramData/NVIDIA/Streamline/slprobe/1792292858977322/sl-sha-f13cbfa2.dmp'
+sl: slInit=eErrorExceptionHandler
+wine: Unhandled illegal instruction at address 00007FF81A824813 (thread 0024), starting debugger...
